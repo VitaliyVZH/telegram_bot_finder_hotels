@@ -1,0 +1,99 @@
+{
+    "5119345459": [
+        {
+            "the_date": "2022-06-21 23:13:18",
+            "command": "/bestdeal",
+            "list_name_hotels": [
+                "IMPERIAL Hotel & Restaurant",
+                "Radisson Blu Royal Astorija Hotel",
+                "Stikliai Hotel",
+                "Grand Hotel Kempinski Vilnius"
+            ]
+        },
+        {
+            "the_date": "2022-06-22 16:56:30",
+            "command": "/lowprice",
+            "list_name_hotels": [
+                "Park Plaza County Hall London",
+                "Park Plaza London Waterloo"
+            ]
+        },
+        {
+            "the_date": "2022-06-24 18:19:23",
+            "command": "/lowprice",
+            "list_name_hotels": [
+                "Royal Garden Hotel",
+                "Montcalm East, Autograph Collection"
+            ]
+        },
+        {
+            "the_date": "2022-07-02 11:40:56",
+            "command": "/lowprice",
+            "list_name_hotels": [
+                "Habita",
+                "InterContinental Presidente Mexico City, an IHG Hotel"
+            ]
+        },
+        {
+            "the_date": "2022-07-05 13:39:48",
+            "command": "/lowprice",
+            "list_name_hotels": [
+                "Inhabit",
+                "Park Plaza London Waterloo"
+            ]
+        },
+        {
+            "the_date": "2022-07-05 14:11:41",
+            "command": "/highprice",
+            "list_name_hotels": [
+                "Brown's Hotel, a Rocco Forte Hotel",
+                "45 Park Lane - Dorchester Collection",
+                "The Carlton Tower Jumeirah"
+            ]
+        },
+        {
+            "the_date": "2022-07-05 20:34:41",
+            "command": "/highprice",
+            "list_name_hotels": [
+                "45 Park Lane - Dorchester Collection",
+                "COMO Metropolitan London"
+            ]
+        },
+        {
+            "the_date": "2022-07-06 10:09:29",
+            "command": "/lowprice",
+            "list_name_hotels": [
+                "Downtown",
+                "C\u00edrculo Mexicano",
+                "Hilton Mexico City Reforma"
+            ]
+        },
+        {
+            "the_date": "2022-07-06 10:11:58",
+            "command": "/bestdeal",
+            "list_name_hotels": [
+                "C\u00edrculo Mexicano",
+                "Downtown",
+                "Hilton Mexico City Reforma"
+            ]
+        },
+        {
+            "the_date": "2022-07-06 15:23:50",
+            "command": "/lowprice",
+            "list_name_hotels": [
+                "Habita",
+                "InterContinental Presidente Mexico City, an IHG Hotel",
+                "W Mexico City"
+            ]
+        },
+        {
+            "the_date": "2022-07-06 15:26:33",
+            "command": "/highprice",
+            "list_name_hotels": [
+                "Nobu London Portman Square",
+                "COMO Metropolitan London",
+                "The Carlton Tower Jumeirah"
+            ]
+        }
+    ]
+}
